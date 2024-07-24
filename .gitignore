@@ -3,3 +3,4 @@ scripts/__pycache__/
 config/__pycache__/
 tests/test.py
 .venv
+src/logs/
